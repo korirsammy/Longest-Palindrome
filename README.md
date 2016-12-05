@@ -1,5 +1,5 @@
 # Longest-Palindrome
-Finding the  Largest Palindrome in CSharp
+Finding the  Largest Palindrome in C#
 
 This code finds the largest palindrome by searching for the largest possible palindrome first, and if not found, gradually for smaller ones.
 
